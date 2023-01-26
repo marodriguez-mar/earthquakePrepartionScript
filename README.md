@@ -16,3 +16,8 @@ Libraries used:
 
 To see demo of our project: https://drive.google.com/file/d/1hyuCHE8wYcuMGRi3sn2XJFmuUhfyuroL/view?usp=sharing
 
+**earthquake_prep_tool**
+* This is the notebook of code we used for the project (datasets are not public at this time).
+
+**earthPreparationScript** 
+* To learn more about the background, implementation, and final products of the project. This is the slidedeck that my team presented to our class.
